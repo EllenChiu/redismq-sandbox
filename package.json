@@ -1,0 +1,29 @@
+{
+  "name": "redismq-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://alincode@github.com/alincode/redismq-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alincode/redismq-sandbox/issues"
+  },
+  "homepage": "https://github.com/alincode/redismq-sandbox#readme",
+  "dependencies": {
+    "babel-polyfill": "^6.16.0",
+    "koa": "^2.0.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.16.0",
+    "babel-preset-es2015": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0"
+  }
+}
