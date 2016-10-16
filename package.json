@@ -20,7 +20,9 @@
   "homepage": "https://github.com/alincode/redismq-sandbox#readme",
   "dependencies": {
     "babel-polyfill": "^6.16.0",
-    "koa": "^2.0.0"
+    "koa": "^2.0.0",
+    "rsmq": "^0.7.1",
+    "rsmq-worker": "^0.5.1"
   },
   "devDependencies": {
     "babel-cli": "^6.16.0",
